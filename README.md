@@ -30,7 +30,7 @@ An interactive and dynamic Quiz Application built using HTML, CSS, and JavaScrip
 
 ## 📸 Screenshots
 
-(Add your project screenshots here for better presentation)
+quiz.png
 
 ---
 
